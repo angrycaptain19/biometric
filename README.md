@@ -17,4 +17,4 @@ You can send GET request to "http://35.156.90.110/people/<IIN>/" and get the per
 
 POST REQUESTS:
 
-![alt text](https://github.com/AlekefromKz/[biometric]/blob/master/1.POST_SUCCESS.png?raw=true)
+![alt text](https://github.com/AlekefromKz/[biometric]/blob/master/screens/1.POST_SUCCESS.png?raw=true)
