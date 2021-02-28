@@ -13,3 +13,8 @@ Send request using HTTP, not HTTPS as SSL is not yet configured.
 Brief explanation: 
 You can send POST request to "http://35.156.90.110/people/" and provide IIN(Individual identification number) in 'iin' parameter. You will get back iin and age of the person. The person will be created.
 You can send GET request to "http://35.156.90.110/people/<IIN>/" and get the person's age.
+
+
+POST REQUESTS:
+
+![alt text](https://github.com/AlekefromKz/[biometric]/blob/master/1.POST_SUCCESS.png?raw=true)
