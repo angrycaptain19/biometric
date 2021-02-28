@@ -19,3 +19,13 @@ POST REQUESTS:
 
 ![alt text](screens/1.POST_SUCCESS.png)
 
+![alt text](screens/2.POST_ALREADY_EXISTS.png)
+
+![alt text](screens/3.POST_NOT_VALID_IIN.png)
+
+
+
+GET REQUESTS:
+![alt text](screens/4.GET_SUCCESS.png)
+
+![alt text](screens/5.GET_404.png)
