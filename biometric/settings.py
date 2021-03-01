@@ -79,11 +79,11 @@ WSGI_APPLICATION = 'biometric.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'biometric',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
-        'HOST': 'localhost',
-        'PORT': '',
+        'NAME': ''********',
+        'USER': '********',
+        'PASSWORD': '********',
+        'HOST': ''********',
+        'PORT': ''********',
     }
 }
 
